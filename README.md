@@ -3,15 +3,21 @@
 ![Site preview](./docs/screenshots/hatstack-example.png)
 
 
+## Prerequisites
+To run this project, you will need the following:
+- node
+- npm
+- hexo-cli
+
 # Install
-Install hexo via npm
+Install dependencies via npm
 ```
-npm install hexo-cli -g
+npm install
 ```
 
 # Usage
 
-Start site using hexo:
+Serve the website using hexo:
 ```
 hexo server
 ```
