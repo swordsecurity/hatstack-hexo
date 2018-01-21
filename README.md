@@ -16,3 +16,5 @@ Start site using hexo:
 hexo server
 ```
 
+# More about hexo
+See https://github.com/hexojs/awesome-hexo
