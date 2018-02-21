@@ -1,7 +1,10 @@
 # Header
 menu:
   Home: /
+  About: /about
+  Wiki: https://wiki.hatstack.nl/doku.php
   Archives: /archives
+
 rss: false # /atom.xml
 
 # Content
