@@ -3,6 +3,7 @@ menu:
   Home: /
   About: /about
   Wiki: https://wiki.hatstack.nl/doku.php
+  Events: /events
   Archives: /archives
 
 rss: false # /atom.xml
