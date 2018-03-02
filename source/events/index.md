@@ -1,20 +1,18 @@
 # Events
 
-## Upcoming CTF's in the Netherlands
+## Upcoming CTF events
 
 | Date | Event  | 
 |--|--|
-| 30 maart 2018 | CTF Hilversum CTF | 
-| 14 juni 2018 | Secura CTF |
-
+| March 30, 2018 | CTF Hilversum CTF | 
+| June 14, 2018 | Secura CTF |
 
 ## Hatstack events
 
 | Date | Event  | 
 |--|--|
-| 8 Maart 2018 | KPN red team gastlezing | 
+| March 8, 2018 | KPN Red team guest lecture | 
 
-
-### Hacknight's
+### Hacknights
 Hacknights are held every month, the exact dates are to be announced.
 
